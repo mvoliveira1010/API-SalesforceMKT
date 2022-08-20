@@ -1,1 +1,3 @@
 *.python linguist-detectable=true
+* linguist-vendored
+*.php linguist-vendored=false
